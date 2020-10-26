@@ -62,9 +62,9 @@ if fflag == 0
 end
 %-----------------check feasibility end----------------------
 
-%objective function
+% objective function
 fun = @(x)-x(1);
-%initialization
+% initialization
 n_d =length(rho_d);
 x0 = zeros(2*K*L+1-n_d,1);
 
