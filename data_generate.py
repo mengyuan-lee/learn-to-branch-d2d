@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 #-----------------------------------------------------------
-#generate .txt file for data
+# generate .txt file for data
 #-----------------------------------------------------------
 import scipy.io as sio  
 import numpy as np
