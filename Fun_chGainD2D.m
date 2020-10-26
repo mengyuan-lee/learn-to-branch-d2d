@@ -12,7 +12,7 @@ for k = 1:num1
     end
 end
 
-%the channel gain 
+% the channel gain 
 H = zeros(num1,num2);
 for k = 1:num1
     for l = 1:num2
