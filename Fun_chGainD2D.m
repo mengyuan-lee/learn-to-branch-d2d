@@ -1,5 +1,5 @@
 function H = Fun_chGainD2D(num1,num2,CU1_x,CU1_y,CU2_x,CU2_y)
-%input: num1/num2 :numbers of the first and second sets of users
+% input: num1/num2 :numbers of the first and second sets of users
 %       CU1_x,CU1_y,CU2_x,CU2_y: coordinates of the first and second sets of users
 % output:H: Channel Gain
 
