@@ -9,4 +9,4 @@ M. Lee, G. Yu, and G. Y. Li, "Learning to branch: Accelerating resource allocati
 
 # how to use?
 
-Run "python main_total.py"
+Run "python main_total.py" with Matlab R2017b&python 3.6.
